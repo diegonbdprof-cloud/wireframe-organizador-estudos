@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="4454" viewBox="0 0 390 4454" xml:lang="pt-BR" role="img">
+  <title>Wireframe Prancheta — mobile</title>
+  <desc>Wireframe de média fidelidade em escala de cinza, estado inicial, com texto em elementos text editáveis. Nenhum arquivo Figma foi produzido; este SVG pode ser importado no Figma. A interação está só no HTML.</desc>
+  <rect id="mesa" x="0" y="0" width="390" height="4454" fill="#d5d5d2"/>
+  <rect id="folha" x="10.0" y="20.0" width="370.0" height="4410.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <g id="anotacao">
+  <rect x="10.0" y="20.0" width="370.0" height="58.0" fill="#e4e4e1" stroke="#1c1c1c" stroke-width="0"/>
+  <line x1="10.0" y1="78.0" x2="380.0" y2="78.0" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="22.0" y="41.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">WF-01 · página única · média fidelidade ·</text>
+  <text x="22.0" y="57.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">escala de cinza · conteúdo fictício ·</text>
+  <text x="22.0" y="73.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">protótipo local</text>
+  </g>
+  <g id="cabecalho">
+  <text x="22.0" y="118.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="start">Prancheta</text>
+  <text x="22.0" y="138.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">organizador de estudos</text>
+  <text x="22.0" y="152.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Quadro</text>
+  <line x1="22.0" y1="158.0" x2="72.4" y2="158.0" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="92.0" y="152.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Inclusão</text>
+  <line x1="92.0" y1="158.0" x2="159.2" y2="158.0" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="180.0" y="152.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Público</text>
+  <line x1="180.0" y1="158.0" x2="238.8" y2="158.0" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="259.0" y="152.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Escopo</text>
+  <line x1="259.0" y1="158.0" x2="309.4" y2="158.0" stroke="#1c1c1c" stroke-width="1"/>
+  <line x1="22.0" y1="180.0" x2="368.0" y2="180.0" stroke="#1c1c1c" stroke-width="1"/>
+  </g>
+  <g id="abertura">
+  <text x="22.0" y="210.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">01 · Abertura</text>
+  <text x="22.0" y="252.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="start">A semana de</text>
+  <text x="22.0" y="290.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="start">estudo em um só</text>
+  <text x="22.0" y="328.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="start">quadro</text>
+  <text x="22.0" y="358.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">Prancheta reúne disciplinas, tarefas e</text>
+  <text x="22.0" y="380.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">o dia de cada uma. Esta página é um</text>
+  <text x="22.0" y="402.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">wireframe de média fidelidade, em</text>
+  <text x="22.0" y="424.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">escala de cinza, de um produto</text>
+  <text x="22.0" y="446.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">fictício. A amostra foi inventada e a</text>
+  <text x="22.0" y="468.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">inclusão de tarefa não sai deste</text>
+  <text x="22.0" y="490.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">navegador.</text>
+  <text x="22.0" y="518.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">Público pressuposto, sem pesquisa com</text>
+  <text x="22.0" y="540.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">usuários: estudantes que cursam várias</text>
+  <text x="22.0" y="562.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">disciplinas na mesma semana.</text>
+  <text x="22.0" y="590.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Fluxo desta página: ver o quadro,</text>
+  <text x="22.0" y="612.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">incluir uma tarefa na prévia e ler</text>
+  <text x="22.0" y="634.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">a confirmação de que nada foi</text>
+  <text x="22.0" y="656.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">gravado.</text>
+  <rect x="22.0" y="674.0" width="346.0" height="48.0" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="195.0" y="704.0" fill="#fbfbfa" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Ver o quadro da semana</text>
+  <rect x="22.0" y="730.0" width="346.0" height="48.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="195.0" y="760.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Incluir uma tarefa na prévia</text>
+  </g>
+  <g id="quadro">
+  <rect x="22.0" y="806.0" width="28.0" height="22.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="27.0" y="822.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">02</text>
+  <text x="58.0" y="824.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="start">Quadro da semana</text>
+  <text x="22.0" y="854.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">Prévia representativa do produto. Os</text>
+  <text x="22.0" y="876.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">cinco cartões iniciais são fictícios e</text>
+  <text x="22.0" y="898.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">não vêm de uma turma real.</text>
+  <text x="22.0" y="928.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Semana ilustrativa de 9 a 13 de</text>
+  <text x="22.0" y="950.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">novembro de 2026.</text>
+  <text x="34.0" y="984.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Mostrar</text>
+  <rect x="34.0" y="996.0" width="222.0" height="44.0" fill="#d9d9d6" stroke="#1c1c1c" stroke-width="3"/>
+  <circle cx="52.0" cy="1018.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <circle cx="52.0" cy="1018.0" r="3.5" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="66.0" y="1024.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Todas as disciplinas</text>
+  <rect x="34.0" y="1048.0" width="125.2" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="52.0" cy="1070.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="66.0" y="1076.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Cálculo I</text>
+  <rect x="34.0" y="1100.0" width="213.2" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="52.0" cy="1122.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="66.0" y="1128.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Métodos de Pesquisa</text>
+  <rect x="34.0" y="1152.0" width="257.2" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="52.0" cy="1174.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="66.0" y="1180.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Introdução à Programação</text>
+  <text x="34.0" y="1218.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">Filtra só a prévia desta página. Sem</text>
+  <text x="34.0" y="1236.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">JavaScript, a amostra inteira permanece</text>
+  <text x="34.0" y="1254.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">visível.</text>
+  <rect x="22.0" y="964.0" width="346.0" height="306.0" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="22.0" y="1282.0" width="346.0" height="190.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="30.0" y="1304.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Segunda</text>
+  <line x1="30.0" y1="1312.0" x2="360.0" y2="1312.0" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="30.0" y="1320.0" width="330.0" height="144.0" fill="#f3f3f1" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="38.0" y="1342.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Cálculo I</text>
+  <text x="38.0" y="1367.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Ler as seções 2.1 a 2.3 do</text>
+  <text x="38.0" y="1388.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">material</text>
+  <text x="38.0" y="1416.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Estado:</text>
+  <rect x="88.0" y="1402.0" width="67.2" height="20.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="94.0" y="1416.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">A fazer</text>
+  <text x="38.0" y="1445.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Origem: Amostra fictícia</text>
+  <rect x="22.0" y="1484.0" width="346.0" height="190.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="30.0" y="1506.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Terça</text>
+  <line x1="30.0" y1="1514.0" x2="360.0" y2="1514.0" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="30.0" y="1522.0" width="330.0" height="144.0" fill="#f3f3f1" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="38.0" y="1544.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Introdução à Programação</text>
+  <text x="38.0" y="1569.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Resolver os exercícios 4 a 7 da</text>
+  <text x="38.0" y="1590.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">lista</text>
+  <text x="38.0" y="1618.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Estado:</text>
+  <rect x="88.0" y="1604.0" width="105.2" height="20.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="94.0" y="1618.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">Em andamento</text>
+  <text x="38.0" y="1647.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Origem: Amostra fictícia</text>
+  <rect x="22.0" y="1686.0" width="346.0" height="190.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="30.0" y="1708.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Quarta</text>
+  <line x1="30.0" y1="1716.0" x2="360.0" y2="1716.0" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="30.0" y="1724.0" width="330.0" height="144.0" fill="#f3f3f1" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="38.0" y="1746.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Métodos de Pesquisa</text>
+  <text x="38.0" y="1771.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Montar o roteiro com três</text>
+  <text x="38.0" y="1792.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">perguntas</text>
+  <text x="38.0" y="1820.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Estado:</text>
+  <rect x="88.0" y="1806.0" width="67.2" height="20.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="94.0" y="1820.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">A fazer</text>
+  <text x="38.0" y="1849.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Origem: Amostra fictícia</text>
+  <rect x="22.0" y="1888.0" width="346.0" height="190.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="30.0" y="1910.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Quinta</text>
+  <line x1="30.0" y1="1918.0" x2="360.0" y2="1918.0" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="30.0" y="1926.0" width="330.0" height="144.0" fill="#f3f3f1" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="38.0" y="1948.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Métodos de Pesquisa</text>
+  <text x="38.0" y="1973.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Entregar o resumo da leitura da</text>
+  <text x="38.0" y="1994.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">semana</text>
+  <text x="38.0" y="2022.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Estado:</text>
+  <rect x="88.0" y="2008.0" width="67.2" height="20.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="94.0" y="2022.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">A fazer</text>
+  <text x="38.0" y="2051.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Origem: Amostra fictícia</text>
+  <rect x="22.0" y="2090.0" width="346.0" height="190.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="30.0" y="2112.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Sexta</text>
+  <line x1="30.0" y1="2120.0" x2="360.0" y2="2120.0" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="30.0" y="2128.0" width="330.0" height="144.0" fill="#f3f3f1" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="38.0" y="2150.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Cálculo I</text>
+  <text x="38.0" y="2175.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Revisar os exercícios já</text>
+  <text x="38.0" y="2196.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">resolvidos</text>
+  <text x="38.0" y="2224.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Estado:</text>
+  <rect x="88.0" y="2210.0" width="82.4" height="20.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="94.0" y="2224.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">Concluída</text>
+  <text x="38.0" y="2253.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Origem: Amostra fictícia</text>
+  </g>
+  <g id="inclusao">
+  <rect x="22.0" y="2308.0" width="28.0" height="22.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="27.0" y="2324.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">03</text>
+  <text x="58.0" y="2328.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start">Incluir uma tarefa na</text>
+  <text x="58.0" y="2356.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start">prévia</text>
+  <text x="22.0" y="2384.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">O botão abaixo só acrescenta um cartão</text>
+  <text x="22.0" y="2406.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">nesta página. Recarregar o navegador</text>
+  <text x="22.0" y="2428.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">apaga a demonstração e devolve a</text>
+  <text x="22.0" y="2450.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">amostra fictícia.</text>
+  <text x="22.0" y="2480.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">1. Veja o quadro e, se quiser, mostre</text>
+  <text x="22.0" y="2502.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">só uma disciplina.</text>
+  <text x="22.0" y="2528.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">2. Escolha a disciplina, escreva a</text>
+  <text x="22.0" y="2550.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">tarefa e marque o dia.</text>
+  <text x="22.0" y="2576.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">3. Acione “Incluir na prévia local” e</text>
+  <text x="22.0" y="2598.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">confira o cartão no dia. A página</text>
+  <text x="22.0" y="2620.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">avisa que nada foi gravado.</text>
+  <text x="38.0" y="2670.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Disciplina (obrigatório)</text>
+  <rect x="38.0" y="2678.0" width="314.0" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="48.0" y="2706.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start">Selecione</text>
+  <line x1="324.0" y1="2694.0" x2="334.0" y2="2704.0" stroke="#1c1c1c" stroke-width="2"/>
+  <line x1="334.0" y1="2704.0" x2="344.0" y2="2694.0" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="38.0" y="2740.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">As três opções são fictícias e são as</text>
+  <text x="38.0" y="2758.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">mesmas do quadro acima.</text>
+  <text x="38.0" y="2790.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Tarefa (obrigatório)</text>
+  <rect x="38.0" y="2798.0" width="314.0" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="38.0" y="2860.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">Uma frase curta, até 80 caracteres.</text>
+  <text x="38.0" y="2878.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">Exemplo fictício: Entregar o resumo da</text>
+  <text x="38.0" y="2896.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">leitura. Não há campo de senha,</text>
+  <text x="38.0" y="2914.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">documento ou pagamento.</text>
+  <text x="38.0" y="2936.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">0 de 80 caracteres.</text>
+  <text x="38.0" y="2964.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Dia da semana (obrigatório)</text>
+  <rect x="38.0" y="2972.0" width="107.6" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="56.0" cy="2994.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="70.0" y="3000.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Segunda</text>
+  <rect x="153.6" y="2972.0" width="90.0" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="171.6" cy="2994.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="185.6" y="3000.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Terça</text>
+  <rect x="251.6" y="2972.0" width="98.8" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="269.6" cy="2994.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="283.6" y="3000.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Quarta</text>
+  <rect x="38.0" y="3024.0" width="98.8" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="56.0" cy="3046.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="70.0" y="3052.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Quinta</text>
+  <rect x="144.8" y="3024.0" width="90.0" height="44.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <circle cx="162.8" cy="3046.0" r="7.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="176.8" y="3052.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Sexta</text>
+  <text x="38.0" y="3088.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">Os mesmos cinco dias do quadro. Não há</text>
+  <text x="38.0" y="3106.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">sábado, domingo nem horário.</text>
+  <rect x="38.0" y="3124.0" width="314.0" height="48.0" fill="#1c1c1c" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="195.0" y="3154.0" fill="#fbfbfa" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Incluir na prévia local</text>
+  <rect x="38.0" y="3180.0" width="314.0" height="48.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="2"/>
+  <text x="195.0" y="3210.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Remover tarefas da demonstração</text>
+  <text x="38.0" y="3254.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">Depois do acionamento, a confirmação</text>
+  <text x="38.0" y="3272.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">aparece abaixo. O cartão entra no dia</text>
+  <text x="38.0" y="3290.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="start">escolhido. Nada é enviado.</text>
+  <rect x="38.0" y="3302.0" width="314.0" height="44.0" fill="#fbfbfa" stroke="#3a3a3a" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="48.0" y="3329.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">A confirmação local aparece aqui.</text>
+  <rect x="22.0" y="2638.0" width="346.0" height="724.0" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+  </g>
+  <g id="publico">
+  <rect x="34.0" y="3404.0" width="28.0" height="22.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="40.0" y="3420.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">04</text>
+  <text x="70.0" y="3428.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">Público pressuposto</text>
+  <text x="34.0" y="3457.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">O que segue define o produto deste</text>
+  <text x="34.0" y="3477.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">exercício. Não houve entrevista,</text>
+  <text x="34.0" y="3497.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">questionário nem teste com estudantes.</text>
+  <text x="34.0" y="3523.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Estudantes de graduação, curso</text>
+  <text x="34.0" y="3543.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">técnico ou curso livre.</text>
+  <text x="34.0" y="3569.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Quem acompanha mais de uma</text>
+  <text x="34.0" y="3589.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">disciplina na mesma semana.</text>
+  <text x="34.0" y="3615.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Quem quer ver a tarefa e o dia no</text>
+  <text x="34.0" y="3635.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">mesmo quadro.</text>
+  <text x="34.0" y="3661.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Não descrevemos instituição, turno,</text>
+  <text x="34.0" y="3681.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">idade específica nem a ferramenta que</text>
+  <text x="34.0" y="3701.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">a pessoa já usa. Também não afirmamos</text>
+  <text x="34.0" y="3721.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">que esse público prefere esta solução.</text>
+  <rect x="22.0" y="3390.0" width="346.0" height="350.0" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+  </g>
+  <g id="escopo">
+  <rect x="34.0" y="3766.0" width="28.0" height="22.0" fill="#fbfbfa" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="40.0" y="3782.0" fill="#1c1c1c" font-family="Courier New, Courier, monospace" font-size="13" font-weight="400" text-anchor="start">05</text>
+  <text x="70.0" y="3790.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">O que a página</text>
+  <text x="70.0" y="3816.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="start">organiza</text>
+  <text x="34.0" y="3845.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Entra na prévia</text>
+  <text x="34.0" y="3871.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Disciplina, entre três nomes</text>
+  <text x="34.0" y="3891.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">fictícios.</text>
+  <text x="34.0" y="3917.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Tarefa em uma frase de até 80</text>
+  <text x="34.0" y="3937.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">caracteres.</text>
+  <text x="34.0" y="3963.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Dia útil: segunda a sexta.</text>
+  <text x="34.0" y="3989.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Estado escrito: A fazer, Em</text>
+  <text x="34.0" y="4009.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">andamento ou Concluída.</text>
+  <text x="34.0" y="4035.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Fica de fora</text>
+  <text x="34.0" y="4061.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Cadastro, login, senha e pagamento.</text>
+  <text x="34.0" y="4087.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Gravação, exportação ou envio dos</text>
+  <text x="34.0" y="4107.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">campos.</text>
+  <text x="34.0" y="4133.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Nota, presença, chat e ambiente</text>
+  <text x="34.0" y="4153.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">virtual.</text>
+  <text x="34.0" y="4179.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">• Sábado, domingo, horário e outras</text>
+  <text x="34.0" y="4199.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">disciplinas.</text>
+  <rect x="22.0" y="3752.0" width="346.0" height="466.0" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+  </g>
+  <g id="rodape">
+  <line x1="22.0" y1="4250.0" x2="368.0" y2="4250.0" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="22.0" y="4277.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Prancheta é um nome fictício para este</text>
+  <text x="22.0" y="4297.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">exercício. A amostra não representa</text>
+  <text x="22.0" y="4317.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">estudantes, turmas ou resultados reais.</text>
+  <text x="22.0" y="4337.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start">Nenhum arquivo Figma foi feito.</text>
+  <text x="22.0" y="4366.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Documentação do exercício</text>
+  <line x1="22.0" y1="4372.0" x2="236.0" y2="4372.0" stroke="#1c1c1c" stroke-width="1"/>
+  <text x="22.0" y="4398.0" fill="#1c1c1c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Voltar ao início</text>
+  <line x1="22.0" y1="4404.0" x2="152.0" y2="4404.0" stroke="#1c1c1c" stroke-width="1"/>
+  </g>
+</svg>
