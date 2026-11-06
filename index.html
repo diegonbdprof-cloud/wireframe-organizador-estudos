@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Wireframe de média fidelidade, em escala de cinza, do organizador de estudos fictício Prancheta. Protótipo local, sem cadastro e sem gravação de dados.">
+  <title>Prancheta — wireframe do organizador de estudos</title>
+  <link rel="stylesheet" href="css/wireframe.css">
+</head>
+<body>
+  <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+
+  <div class="prancha">
+    <header class="topo" id="topo" tabindex="-1">
+      <p class="anotacao">WF-01 · página única · média fidelidade · escala de cinza · conteúdo fictício · protótipo local</p>
+      <div class="cabecalho">
+        <div class="marca">
+          <a class="marca-nome" href="#topo">Prancheta</a>
+          <p class="marca-sub">organizador de estudos</p>
+        </div>
+        <nav class="nav-secao" aria-label="Seções desta página">
+          <ul>
+            <li><a href="#quadro">Quadro</a></li>
+            <li><a href="#inclusao">Inclusão</a></li>
+            <li><a href="#publico">Público</a></li>
+            <li><a href="#escopo">Escopo</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <div class="miolo">
+      <main id="conteudo" tabindex="-1">
+        <noscript>
+          <p class="alerta">O JavaScript desta página está desligado. O quadro fictício continua visível. A inclusão na prévia e o filtro não funcionam e não enviam dados.</p>
+        </noscript>
+
+        <section id="abertura" class="secao hero" tabindex="-1" aria-labelledby="titulo-abertura">
+          <p class="kicker">01 · Abertura</p>
+          <h1 id="titulo-abertura">A semana de estudo em um só quadro</h1>
+          <p class="medida">Prancheta reúne disciplinas, tarefas e o dia de cada uma. Esta página é um wireframe de média fidelidade, em escala de cinza, de um produto fictício. A amostra foi inventada e a inclusão de tarefa não sai deste navegador.</p>
+          <p class="medida">Público pressuposto, sem pesquisa com usuários: estudantes que cursam várias disciplinas na mesma semana.</p>
+          <p class="fluxo medida">Fluxo desta página: ver o quadro, incluir uma tarefa na prévia e ler a confirmação de que nada foi gravado.</p>
+          <div class="acoes">
+            <a class="botao botao-primario" href="#quadro">Ver o quadro da semana</a>
+            <a class="botao" href="#inclusao">Incluir uma tarefa na prévia</a>
+          </div>
+        </section>
+
+        <section id="quadro" class="secao" tabindex="-1" aria-labelledby="titulo-quadro">
+          <div class="secao-titulo">
+            <h2 id="titulo-quadro"><span class="indice">02</span> Quadro da semana</h2>
+          </div>
+          <p class="medida">Prévia representativa do produto. Os cinco cartões iniciais são fictícios e não vêm de uma turma real.</p>
+          <p id="rotulo-semana" class="semana-rotulo">Semana ilustrativa de 9 a 13 de novembro de 2026.</p>
+
+          <fieldset class="grupo" id="grupo-filtro">
+            <legend>Mostrar</legend>
+            <div class="opcoes">
+              <label class="opcao"><input type="radio" name="filtro" value="todas" checked> Todas as disciplinas</label>
+              <label class="opcao"><input type="radio" name="filtro" value="calculo"> Cálculo I</label>
+              <label class="opcao"><input type="radio" name="filtro" value="metodos"> Métodos de Pesquisa</label>
+              <label class="opcao"><input type="radio" name="filtro" value="programacao"> Introdução à Programação</label>
+            </div>
+            <p id="ajuda-filtro" class="ajuda">Filtra só a prévia desta página. Sem JavaScript, a amostra inteira permanece visível.</p>
+          </fieldset>
+
+          <div class="semana" aria-describedby="rotulo-semana">
+            <section class="dia" id="dia-seg" aria-labelledby="rotulo-seg">
+              <h3 id="rotulo-seg">Segunda</h3>
+              <ul class="tarefas" id="lista-seg">
+                <li class="tarefa" data-disciplina="calculo" data-origem="amostra">
+                  <p class="tarefa-disciplina">Cálculo I</p>
+                  <p class="tarefa-titulo">Ler as seções 2.1 a 2.3 do material</p>
+                  <p class="tarefa-meta"><span class="rotulo-meta">Estado: </span><span class="estado">A fazer</span></p>
+                  <p class="tarefa-meta">Origem: Amostra fictícia</p>
+                </li>
+              </ul>
+              <p class="vazio" hidden>Nenhuma tarefa visível neste dia.</p>
+            </section>
+
+            <section class="dia" id="dia-ter" aria-labelledby="rotulo-ter">
+              <h3 id="rotulo-ter">Terça</h3>
+              <ul class="tarefas" id="lista-ter">
+                <li class="tarefa" data-disciplina="programacao" data-origem="amostra">
+                  <p class="tarefa-disciplina">Introdução à Programação</p>
+                  <p class="tarefa-titulo">Resolver os exercícios 4 a 7 da lista</p>
+                  <p class="tarefa-meta"><span class="rotulo-meta">Estado: </span><span class="estado">Em andamento</span></p>
+                  <p class="tarefa-meta">Origem: Amostra fictícia</p>
+                </li>
+              </ul>
+              <p class="vazio" hidden>Nenhuma tarefa visível neste dia.</p>
+            </section>
+
+            <section class="dia" id="dia-qua" aria-labelledby="rotulo-qua">
+              <h3 id="rotulo-qua">Quarta</h3>
+              <ul class="tarefas" id="lista-qua">
+                <li class="tarefa" data-disciplina="metodos" data-origem="amostra">
+                  <p class="tarefa-disciplina">Métodos de Pesquisa</p>
+                  <p class="tarefa-titulo">Montar o roteiro com três perguntas</p>
+                  <p class="tarefa-meta"><span class="rotulo-meta">Estado: </span><span class="estado">A fazer</span></p>
+                  <p class="tarefa-meta">Origem: Amostra fictícia</p>
+                </li>
+              </ul>
+              <p class="vazio" hidden>Nenhuma tarefa visível neste dia.</p>
+            </section>
+
+            <section class="dia" id="dia-qui" aria-labelledby="rotulo-qui">
+              <h3 id="rotulo-qui">Quinta</h3>
+              <ul class="tarefas" id="lista-qui">
+                <li class="tarefa" data-disciplina="metodos" data-origem="amostra">
+                  <p class="tarefa-disciplina">Métodos de Pesquisa</p>
+                  <p class="tarefa-titulo">Entregar o resumo da leitura da semana</p>
+                  <p class="tarefa-meta"><span class="rotulo-meta">Estado: </span><span class="estado">A fazer</span></p>
+                  <p class="tarefa-meta">Origem: Amostra fictícia</p>
+                </li>
+              </ul>
+              <p class="vazio" hidden>Nenhuma tarefa visível neste dia.</p>
+            </section>
+
+            <section class="dia" id="dia-sex" aria-labelledby="rotulo-sex">
+              <h3 id="rotulo-sex">Sexta</h3>
+              <ul class="tarefas" id="lista-sex">
+                <li class="tarefa" data-disciplina="calculo" data-origem="amostra">
+                  <p class="tarefa-disciplina">Cálculo I</p>
+                  <p class="tarefa-titulo">Revisar os exercícios já resolvidos</p>
+                  <p class="tarefa-meta"><span class="rotulo-meta">Estado: </span><span class="estado">Concluída</span></p>
+                  <p class="tarefa-meta">Origem: Amostra fictícia</p>
+                </li>
+              </ul>
+              <p class="vazio" hidden>Nenhuma tarefa visível neste dia.</p>
+            </section>
+          </div>
+        </section>
+
+        <section id="inclusao" class="secao" tabindex="-1" aria-labelledby="titulo-inclusao">
+          <div class="secao-titulo">
+            <h2 id="titulo-inclusao"><span class="indice">03</span> Incluir uma tarefa na prévia</h2>
+          </div>
+          <p class="medida">O botão abaixo só acrescenta um cartão nesta página. Recarregar o navegador apaga a demonstração e devolve a amostra fictícia.</p>
+          <ol class="passos medida">
+            <li>Veja o quadro e, se quiser, mostre só uma disciplina.</li>
+            <li>Escolha a disciplina, escreva a tarefa e marque o dia.</li>
+            <li>Acione “Incluir na prévia local” e confira o cartão no dia. A página avisa que nada foi gravado.</li>
+          </ol>
+
+          <div class="painel" id="painel-tarefa">
+            <div class="campo">
+              <label for="disciplina">Disciplina <span class="obrigatorio">(obrigatório)</span></label>
+              <select id="disciplina" name="disciplina" aria-required="true" aria-describedby="ajuda-disciplina">
+                <option value="">Selecione</option>
+                <option value="calculo">Cálculo I</option>
+                <option value="metodos">Métodos de Pesquisa</option>
+                <option value="programacao">Introdução à Programação</option>
+              </select>
+              <p id="ajuda-disciplina" class="ajuda">As três opções são fictícias e são as mesmas do quadro acima.</p>
+              <p id="erro-disciplina" class="mensagem-erro" hidden></p>
+            </div>
+
+            <div class="campo">
+              <label for="tarefa">Tarefa <span class="obrigatorio">(obrigatório)</span></label>
+              <input id="tarefa" name="tarefa" type="text" maxlength="80" aria-required="true" aria-describedby="ajuda-tarefa contador" autocomplete="off" spellcheck="true">
+              <p id="ajuda-tarefa" class="ajuda">Uma frase curta, até 80 caracteres. Exemplo fictício: Entregar o resumo da leitura. Não há campo de senha, documento ou pagamento.</p>
+              <p id="contador" class="ajuda">0 de 80 caracteres.</p>
+              <p id="erro-tarefa" class="mensagem-erro" hidden></p>
+            </div>
+
+            <fieldset class="grupo" id="grupo-dia" tabindex="-1" aria-describedby="ajuda-dia">
+              <legend>Dia da semana <span class="obrigatorio">(obrigatório)</span></legend>
+              <div class="opcoes">
+                <label class="opcao"><input type="radio" name="dia" value="seg"> Segunda</label>
+                <label class="opcao"><input type="radio" name="dia" value="ter"> Terça</label>
+                <label class="opcao"><input type="radio" name="dia" value="qua"> Quarta</label>
+                <label class="opcao"><input type="radio" name="dia" value="qui"> Quinta</label>
+                <label class="opcao"><input type="radio" name="dia" value="sex"> Sexta</label>
+              </div>
+              <p id="ajuda-dia" class="ajuda">Os mesmos cinco dias do quadro. Não há sábado, domingo nem horário.</p>
+              <p id="erro-dia" class="mensagem-erro" hidden></p>
+            </fieldset>
+
+            <div class="acoes">
+              <button type="button" class="botao botao-primario" id="incluir">Incluir na prévia local</button>
+              <button type="button" class="botao" id="limpar">Remover tarefas da demonstração</button>
+            </div>
+            <p id="ajuda-acao" class="ajuda">Depois do acionamento, a confirmação aparece abaixo. O cartão entra no dia escolhido. Nada é enviado.</p>
+            <div id="erros"></div>
+            <p class="placeholder" id="placeholder-status" aria-hidden="true">A confirmação local aparece aqui.</p>
+            <p id="status" class="status" role="status" tabindex="-1"></p>
+          </div>
+        </section>
+
+        <div class="duas">
+          <section id="publico" class="secao caixa" tabindex="-1" aria-labelledby="titulo-publico">
+            <div class="secao-titulo">
+              <h2 id="titulo-publico"><span class="indice">04</span> Público pressuposto</h2>
+            </div>
+            <p>O que segue define o produto deste exercício. Não houve entrevista, questionário nem teste com estudantes.</p>
+            <ul class="lista">
+              <li>Estudantes de graduação, curso técnico ou curso livre.</li>
+              <li>Quem acompanha mais de uma disciplina na mesma semana.</li>
+              <li>Quem quer ver a tarefa e o dia no mesmo quadro.</li>
+            </ul>
+            <p class="ajuda">Não descrevemos instituição, turno, idade específica nem a ferramenta que a pessoa já usa. Também não afirmamos que esse público prefere esta solução.</p>
+          </section>
+
+          <section id="escopo" class="secao caixa" tabindex="-1" aria-labelledby="titulo-escopo">
+            <div class="secao-titulo">
+              <h2 id="titulo-escopo"><span class="indice">05</span> O que a página organiza</h2>
+            </div>
+            <h3>Entra na prévia</h3>
+            <ul class="lista">
+              <li>Disciplina, entre três nomes fictícios.</li>
+              <li>Tarefa em uma frase de até 80 caracteres.</li>
+              <li>Dia útil: segunda a sexta.</li>
+              <li>Estado escrito: A fazer, Em andamento ou Concluída.</li>
+            </ul>
+            <h3>Fica de fora</h3>
+            <ul class="lista">
+              <li>Cadastro, login, senha e pagamento.</li>
+              <li>Gravação, exportação ou envio dos campos.</li>
+              <li>Nota, presença, chat e ambiente virtual.</li>
+              <li>Sábado, domingo, horário e outras disciplinas.</li>
+            </ul>
+          </section>
+        </div>
+      </main>
+
+      <footer class="rodape">
+        <p>Prancheta é um nome fictício para este exercício. A amostra não representa estudantes, turmas ou resultados reais. Nenhum arquivo Figma foi feito.</p>
+        <ul class="nav-secao">
+          <li><a href="README.md">Documentação do exercício</a></li>
+          <li><a href="#topo">Voltar ao início</a></li>
+        </ul>
+      </footer>
+    </div>
+  </div>
+
+  <script src="js/prototipo.js"></script>
+</body>
+</html>
